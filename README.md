@@ -72,8 +72,7 @@ XL  -> > 47 cm
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/virtualtryon.git
-cd virtualtryon
+git clone https://github.com/venkat-2608/ai-virtual-fitting-suite.git
 ```
 
 Install dependencies:
@@ -125,3 +124,4 @@ All dependencies are listed in `requirements.txt`.
 * Integration with virtual try-on visualization
 * Machine learning based size recommendation
 * Improved scaling using reference objects
+* user gets to choose the clothing he wants to try-on
